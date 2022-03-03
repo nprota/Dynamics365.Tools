@@ -103,6 +103,7 @@
     <Compile Include="Workflow\Format.cs" />
     <Compile Include="Workflow\Create.cs" />
     <Compile Include="Workflow\Diff.cs" />
+    <Compile Include="Workflow\UserDate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
